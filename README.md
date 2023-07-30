@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=const+michael+%3D+%7B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+pronouns%3A+%22he%2Fhim%22%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+fullStackDeveloper%3A+true%2C)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+writerOfUnpublishedStories+%3D+true%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+writerOfUnpublishedStories+%3A+true%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+numOfCats%3A+2%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+interests%3A+%5Breading%2C+writing%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+travel%2C+hiking%2C+clickity-clack%5D)](https://git.io/typing-svg)
