@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+writerOfUnpublishedStories+%3D+true%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+numOfCats+%3D+2%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+interests+%3D+%5Breading%2C+writing%2C+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C++travel%2C+hiking%2C+clickity-clack%5D%2C+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C++travel%2C+hiking%2C+clickity-clack%5D)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7D)](https://git.io/typing-svg)
 
 
@@ -36,8 +36,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
     <img width="5" />
