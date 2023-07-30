@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+interests%3A+%5Breading%2C+writing%2C)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+travel%2C+hiking%2C+clickity-clack%5D)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7D)](https://git.io/typing-svg)
-
+ 
 
 ---
 
