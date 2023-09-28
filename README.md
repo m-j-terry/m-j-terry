@@ -37,7 +37,7 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
     <img width="5" />
-    <img src="  https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
     <img width="5" />
